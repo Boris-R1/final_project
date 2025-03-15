@@ -1,0 +1,31 @@
+accuracy,precision,recall,f1,TN,FP,FN,TP,k_features,algorithm,model
+1.0,1.0,1.0,1.0,12780,0,0,246,1,in-built feature_importance,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,2,in-built feature_importance,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,3,in-built feature_importance,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,4,in-built feature_importance,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,5,in-built feature_importance,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,1,in-built feature_importance with multicollinearity removed,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,2,in-built feature_importance with multicollinearity removed,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,3,in-built feature_importance with multicollinearity removed,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,4,in-built feature_importance with multicollinearity removed,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,5,in-built feature_importance with multicollinearity removed,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,1,permutation importance,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,2,permutation importance,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,3,permutation importance,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,4,permutation importance,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,5,permutation importance,CatBoostClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,1,in-built feature_importance,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,2,in-built feature_importance,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,3,in-built feature_importance,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,4,in-built feature_importance,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,5,in-built feature_importance,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,1,in-built feature_importance with multicollinearity removed,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,2,in-built feature_importance with multicollinearity removed,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,3,in-built feature_importance with multicollinearity removed,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,4,in-built feature_importance with multicollinearity removed,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,5,in-built feature_importance with multicollinearity removed,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,1,permutation importance,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,2,permutation importance,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,3,permutation importance,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,4,permutation importance,XGBClassifier
+1.0,1.0,1.0,1.0,12780,0,0,246,5,permutation importance,XGBClassifier
